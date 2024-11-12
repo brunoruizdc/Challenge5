@@ -23,6 +23,8 @@ HappyHealth --> Cápsula suplementaria que brinda 30mg de VitaminaC, 2 mg de Hie
 #Mejor solución:
 ![Imagen de WhatsApp 2024-11-12 a las 09 48 07_bbf658c0](https://github.com/user-attachments/assets/6b9e515c-51c8-492c-81bf-614a1522e8b2)
 
+
 #Interpretación de la solución:
+
 Como se nota en el modelo optimizador, la mejor solución para que se consuma la cantidad necesaria de suplementos en un día y minimice los costos, será consumir 3.1 tabletas 
 de HappyHealth al día y 1.3 tabletas de VegaVita al día.
