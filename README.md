@@ -1,7 +1,7 @@
 # Challenge5 (OPTIMIZATION)
 
 #TRABAJO: 
-# Para resulver el problema de MINIMIZACIÓN de dieta; es necesario entender lo siguiente:
+#Para resolver el problema de MINIMIZACIÓN de dieta; es necesario entender lo siguiente:
 
 # VARIBABLE 1: 
 VegaVita --> Cápsula a tomar que brinda 20mg de VitaminaC, 9mg de Hierro, 500 mg de Calcio, 60 mg de Magnesio y 2 mg de Niacina
