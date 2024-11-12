@@ -3,8 +3,10 @@
 #TRABAJO: 
 # Para resulver el problema de MINIMIZACIÓN de dieta; es necesario entender lo siguiente:
 
-# VARIBABLE 1: VegaVita --> Cápsula a tomar que brinda 20mg de VitaminaC, 9mg de Hierro, 500 mg de Calcio, 60 mg de Magnesio y 2 mg de Niacina
-# VARIABLE 2: HappyHealth --> Cápsula suplementaria que brinda 30mg de VitaminaC, 2 mg de Hierro, 250 mg de Calcio, 90 mg de Magnesio y 10 mg de Niacina
+# VARIBABLE 1: 
+VegaVita --> Cápsula a tomar que brinda 20mg de VitaminaC, 9mg de Hierro, 500 mg de Calcio, 60 mg de Magnesio y 2 mg de Niacina
+# VARIABLE 2: 
+HappyHealth --> Cápsula suplementaria que brinda 30mg de VitaminaC, 2 mg de Hierro, 250 mg de Calcio, 90 mg de Magnesio y 10 mg de Niacina
 #VARIABLE RESTRICTIVA 1: Debe consumirse solo 60 mg de Vitamina C al día
 #VARIABLE RESTRICTIVA 2: Debe consumirse 1 0000 mg de Calcio al día
 #VARIABLE RESTRICTIVA 3: Debe consumirse solo 18 mg de Hierro al día
